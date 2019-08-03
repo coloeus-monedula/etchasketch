@@ -81,3 +81,9 @@ html{
     display:flex;
 }
 
+#options{
+    position:absolute;
+    top:50%;
+    transform:translate(0,-50%);
+    left:10%;
+}

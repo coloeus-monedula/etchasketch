@@ -63,8 +63,8 @@ html{
 
 #container{
     display:grid;
-    grid-template-columns: repeat(4,60px);
-    grid-template-rows: repeat(4,60px);
+    grid-template-columns: repeat(16,auto);
+    grid-template-rows: repeat(16,auto);
     height:auto;
     position:absolute;
     left: 50%;
@@ -74,8 +74,8 @@ html{
 }
 
 .gridsquare{
-    height:60px;
-    width:60px;
+    height:45px;
+    width:45px;
     background-color:#c0c0c0;
     border:1px solid black;
     display:flex;

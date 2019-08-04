@@ -84,3 +84,7 @@ html{
     transform:translate(0,-50%);
     left:10%;
 }
+
+button{
+    margin-bottom:10px;
+}
